@@ -102,6 +102,7 @@ END
 LANGUAGE "English" "english" "coranbgfriend/lang/english/setup.tra"
 LANGUAGE "Deutsch" "german" "coranbgfriend/lang/german/setup.tra"
 LANGUAGE "Russian" "russian" "coranbgfriend/lang/english/setup.tra"
+LANGUAGE "Simplified Chinese" "schinese" "coranbgfriend/lang/schinese/setup.tra"
 
 BEGIN @3 LABEL "Domi-CoranBGFriend-Main"
 
